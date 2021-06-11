@@ -14,7 +14,7 @@ I used :-
 
  _Dependencies used_ :-
 
-
+```markdown
  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
@@ -54,6 +54,7 @@ I used :-
 			<version>5.0.0</version>
 		</dependency>
 
+```
 
 ![image](https://user-images.githubusercontent.com/35097948/121716495-ba88db80-cafd-11eb-8781-6162b72412d7.png)
 
